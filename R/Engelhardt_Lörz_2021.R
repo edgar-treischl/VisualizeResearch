@@ -97,7 +97,7 @@ ggplot(data=df_long, aes(x=year, y = outcome, group=Fach)) +
 
 #Export######  
 #setwd("C:/Users/gu99mywo/Dropbox/Lehre/Bildung/Bildung MA/WiSe_21_22")
-#ggsave(file="a5_output.pdf", width = 210, height = 148, units = "mm")
+#ggsave(file="a5_output.png", width = 210, height = 148, units = "mm")
 
 
 
