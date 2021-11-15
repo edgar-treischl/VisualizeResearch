@@ -31,10 +31,10 @@ Engelhardt & Lörz (2021) diskutieren die Auswirkungen von Studienkosten auf her
 Die folgende Liniendiagramm zeigt, wie sich wie sich die Anzahl an Studierenden in ausgewählten Fächern jeweils vor und nach der Bafög Reform (1983) entwickelt haben und visualisiert Tabelle 1 in Engelhardt & Lörz (2021). 
 
 ```{r, echo = FALSE, out.width='100%', fig.align='center' }
-knitr::include_graphics('man/figures/unnamed-chunk-3-1.png')
+knitr::include_graphics('man/figures/Engelhardt_Loerz_2021.png')
 ```
 
-![](man/figures/Engelhardt_Lörz_2021.png)
+![](man/figures/Engelhardt_Loerz_2021.png)
 
 Orginalarbeit: Engelhardt, C. & Lörz, M. (2021): Auswirkungen von Studienkosten auf herkunftsspezifische Ungleichheiten bei der Studienaufnahme und der Studienfachwahl, Köln Z Soziol, 73, S. 285–305.
 

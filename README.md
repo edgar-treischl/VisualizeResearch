@@ -24,9 +24,9 @@ Studierenden in ausgewählten Fächern jeweils vor und nach der Bafög
 Reform (1983) entwickelt haben und visualisiert Tabelle 1 in Engelhardt
 & Lörz (2021).
 
-<img src="man/figures/unnamed-chunk-3-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/Engelhardt_Loerz_2021.png" width="100%" style="display: block; margin: auto;" />
 
-![](man/figures/Engelhardt_Lörz_2021.png)
+![](man/figures/Engelhardt_Loerz_2021.png)
 
 Orginalarbeit: Engelhardt, C. & Lörz, M. (2021): Auswirkungen von
 Studienkosten auf herkunftsspezifische Ungleichheiten bei der
