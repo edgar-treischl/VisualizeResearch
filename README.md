@@ -30,3 +30,4 @@ Reform (1983) entwickelt haben und visualisiert Tabelle 1 in Engelhardt
 *Orginalarbeit*: Engelhardt, C. & Lörz, M. (2021): Auswirkungen von
 Studienkosten auf herkunftsspezifische Ungleichheiten bei der
 Studienaufnahme und der Studienfachwahl, Köln Z Soziol, 73, S. 285–305.
+<https://doi.org/10.1007/s11577-021-00787-3>
