@@ -15,6 +15,31 @@ I started to provide some visualizations for my students in class. Feel
 free to reuse them or use the corresponding R code to generate similar
 plots.
 
+## Simpsons Pardox
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+ipsum dolor sit amet.
+
+![Simpson’s Paradox](man/figures/Simpson1.png) Lorem ipsum dolor sit
+amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+amet.
+
+![Simpson’s Paradox](man/figures/Simpson2.png)
+
 ## Engelhardt & Lörz (2021)
 
 Engelhardt & Lörz (2021) diskutieren die Auswirkungen von Studienkosten
@@ -44,7 +69,7 @@ Männer und Frauen auseinander.
 
 ![The Leaky Pipeline](man/figures/Leaky_Pipeline.png)
 
-[*Quellcode*](https://github.com/edgar-treischl/VisualizeResearch/blob/master/R/Engelhardt_L%C3%B6rz_2021.R)
+[*Quellcode*](https://github.com/edgar-treischl/VisualizeResearch/blob/master/R/Leaky_Pipeline.R)
 
 *Beispielpublikation*: Schubert, F. & Engelange, S. (2011): Wie undicht
 ist die Pipeline? Wissenschaftskarrieren von promovierten Frauen, Kölner
