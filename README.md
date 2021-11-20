@@ -15,30 +15,26 @@ I started to provide some visualizations for my students in class. Feel
 free to reuse them or use the corresponding R code to generate similar
 plots.
 
-## Simpsons Pardox
+## Simpsons pardox
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-ipsum dolor sit amet.
+Simpson’s paradox is a phenomenon in statistics in which a trend appears
+in several groups of data but disappears or reverses when the groups are
+combined. For instance, X and Y seem to be positively related, but
+reverses if we compare of participants sex.
 
-![Simpson’s Paradox](man/figures/Simpson1.png) Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet.
+![Simpson’s Paradox](man/figures/Simpson.png)
+
+Another prominent example comes from UCB Admissions rates. It seems that
+less women than men are rejected on the aggregate level.
+
+![Simpson’s Paradox](man/figures/Simpson1.png) However, the effect
+disappears if we stratify the data and compare admission rate for
+different departments. In some departments more men are rejected and we
+even find departments where approximately the same share of men or women
+get rejected.
 
 ![Simpson’s Paradox](man/figures/Simpson2.png)
+[*Sourcecode*](https://github.com/edgar-treischl/VisualizeResearch/blob/master/R/Simpsons_Paradox.R)
 
 ## Engelhardt & Lörz (2021)
 
