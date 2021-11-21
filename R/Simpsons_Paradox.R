@@ -54,7 +54,7 @@ df2%>%
   geom_text(aes(label = round(Percent, 2)), 
             position = position_stack(vjust = 0.5),
             colour = "white", size = 5, fontface = "bold")+
-  theme_minimal(base_size = 20)+
+  theme_minimal(base_size = 14)+
   scale_fill_manual(values=c("#264653", "#e76f51"))+
   guides(fill = guide_legend(reverse=TRUE))
 
@@ -80,7 +80,7 @@ df_dep%>%
   geom_text(aes(label = round(Percent, 2)), 
             position = position_stack(vjust = 0.5),
             colour = "white", size = 4, fontface = "bold")+
-  theme_minimal(base_size = 20)+
+  theme_minimal(base_size = 14)+
   scale_fill_manual(values=c("#264653", "#e76f51"))+
   facet_wrap(. ~ Dept, ncol=3,
              labeller = as_labeller(Dept.labs))+
@@ -90,7 +90,7 @@ df_dep%>%
 
 
 #Export
-ggsave(p3, file="Simpson.png", width = 210, height = 148, units = "mm")
+ggsave(file="Simpson2.png", width = 210, height = 148, units = "mm")
 
 
 
