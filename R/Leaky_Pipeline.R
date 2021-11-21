@@ -29,7 +29,7 @@ leaky_pipeline$Gruppe <- factor(leaky_pipeline$Gruppe,
 ggplot(leaky_pipeline, aes(x=Gruppe, y=`2019`, group = Sex, color = Sex)) +
   geom_line(size = 1) +
   geom_point(size = 2)+
-  theme_minimal(base_size = 18)+
+  theme_minimal(base_size = 14)+
   geom_label(data = leaky_pipeline %>% filter(Gruppe == "Habilitation"),
              aes(label = Sex, color = Sex),
              #hjust = 1.0,
