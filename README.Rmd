@@ -7,17 +7,13 @@ output: github_document
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/",
-  out.width = "100%"
+  comment = "#>"
 )
 ```
 
-
-# Visualize Research
+# VisualizeResearch
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 We all tell our students that they should use graphs to visualizations key research findings. Every now and then I find a new study that I like to discuss with my students in class. Unfortunately, some researchers do not visualize their research findings (and core messages) which makes it harder to communicate that content to a broader audience that did not read the study. For this reason, I started to create visualization of those studies and I use them for teaching. Feel free to use them or have a look at corresponding R code to generate similar plots.
