@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# VisualizeResearch
+# Visualize Research
 
 <!-- badges: start -->
 <!-- badges: end -->
