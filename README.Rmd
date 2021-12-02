@@ -42,24 +42,6 @@ entwickelt hat und visualisiert Tabelle 1 in Engelhardt & Lörz (2021).
 
 *Publikation*: Engelhardt, C. & Lörz, M. (2021): Auswirkungen von Studienkosten auf herkunftsspezifische Ungleichheiten bei der Studienaufnahme und der Studienfachwahl, Köln Z Soziol, 73, S. 285–305. DOI: <https://doi.org/10.1007/s11577-021-00787-3>
 
-## Simpson's paradox
-
-Simpson’s paradox is a phenomenon in statistics in which a trend appears in several groups, but disappears or reverses when the groups are combined. For instance, X and Y seem to be positively related if you look at the next scatter plot, but the effect reverses if we differentiate and compare the effect separately for men and women.
-
-![Simpson's Paradox](man/figures/Simpson.png)
-
-
-Another prominent example comes from UCB Admissions rates. It seems that
-more women than men are rejected on the aggregate level.
-
-![Simpson's Paradox](man/figures/Simpson1.png)
-
-However, the effect disappears if we stratify the data and compare admission rate for departments. In some departments more men are rejected and we even find departments where approximately the same share of men or women are rejected.
-
-![Simpson's Paradox](man/figures/Simpson2.png)
-[*Sourcecode*](https://github.com/edgar-treischl/VisualizeResearch/blob/master/R/Simpsons_Paradox.R)
-
-
 
 ## Leaky Pipeline
 
